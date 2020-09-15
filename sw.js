@@ -7,7 +7,7 @@ const DYNAMIC_CACHE = "dynamic-v1";
 const INMUTABLE_CACHE = "inmutable-v1";
 
 const APP_SHELL = [
-    "/tech/06-twittor/",
+    //"/tech/06-twittor/",
     "index.html",
     "css/style.css",
     "img/favicon.ico",
